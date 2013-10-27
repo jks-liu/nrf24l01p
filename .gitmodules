@@ -1,0 +1,3 @@
+[submodule "examples/lisp-style-repl"]
+	path = examples/lisp-style-repl
+	url = https://github.com/jks-liu/lisp-style-repl.git
